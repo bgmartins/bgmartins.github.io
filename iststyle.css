@@ -10,15 +10,16 @@
 	
 /* -- stylesheet for IE5win box model -- http://tantek.com/CSS/Examples/midpass.html -- */
 
-
+/* 
 @media tty {
 i{content:"\";/*" "*/}}; @import 'main_ie5win.css'; {;}/*";}
-}/* */
+}/
 
 
 @media tty {
 i{content:"\";/*" "*/}}@m; @import 'main_ie5win.css'; /*";}
-}/* */
+}
+*/
 
 .circular {
 	width: 300px;
