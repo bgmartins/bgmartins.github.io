@@ -7,12 +7,3 @@
 /* -- main stylesheet for modern browsers --*/
 
 @import url("main_r.css");
-
-.circular {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background: url(my-photo.jpg) no-repeat;
-}
